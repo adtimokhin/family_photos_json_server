@@ -5,16 +5,16 @@
   "endMonth": 5,
   "events": [
     {
-      "topText": "свадьбаJSJSJSJ",
+      "topText": "свадьба",
       "bottomText": "2003 АПР",
-      "eventLink": "test",
+      "eventLink": "wedding",
       "year": 2003,
       "month": 4,
       "settings": {
-        "textColor": "#319e4c",
-        "hoverTextColor": "#22d44e",
-        "bgColor": "#032103",
-        "hoverBgColor": "#211a1c"
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
       }
     },
     {
