@@ -189,6 +189,49 @@ Start by making a new event in the file `events_summary.json`:
 - Make sure that the event you added is placed in the correct place. The events should be in a chronological order, with earlier events being closer to the start of the list.
 - If the event you added happened earlier or later than previoulsy stored events you must update   `startYear`, `startMonth`, `endYear`, `endMonth`at the *top* of the file. These four variables must match the range of the values in the events.
 
+### Setting colors to the tile
+That can be done in the same events that your were just updating to set the name of the event. That is how the customized tile will look like:
+
+```{json}
+{
+  "startYear": 2003,
+  "startMonth": 5,
+  "endYear": 2023,
+  "endMonth": 5,
+  "events": [
+	// ... other events that happened before June of 2013 ...
+    {
+      "topText": "Event name",
+      "bottomText": "YYYY MMM",
+      "eventLink": "name_of_the_json_file",
+      "year": 2013,
+      "month": 6,
+	  "settings":{
+        "textColor": "#F3E400",
+        "hoverTextColor": "#FFEF02",
+        "bgColor": "#e4e4e4",
+        "hoverBgColor": "##f2f2f2",
+		"size":200
+      }
+    },
+	// ... other events that happened after June of 2013 ....
+  ]
+}
+```
+Notice that you can skip any part of the settings you do not want to change. You can even skip `settings` as a whole. There are predefined values for every attribute. They are:
+
+- `textColor` - `#9DA3A3`
+- `hoverTextColor` - `#CFD6D6`
+- `bgColor` - `transparent`  <-- Special word which make the background transparent.
+- `hoverBgColor` - `#1A1A1A`
+- `size` - 200
+
+Here is a quick overlook at the settings:
+- `textColor` - Color of the text before user hovers over the tile. Should be given as a hexadecimal value.
+- `hoverTextColor` - color of the text when user hovers over the tile. Should be given as a hexadecimal value.
+- `bgColor` - Color of the background before user hovers over the tile. Should be given as a hexadecimal value
+- `hoverBgColor` -  Color of the background before when hovers over the tile. Should be given as a hexadecimal value
+- `size` - size of the tile in px. It set to 200px and it probably should stay like that. Otherwise it does not look too good. Should be a whole number, positive
 
 ### Adding new images
 
