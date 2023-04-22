@@ -1,9 +1,9 @@
 {
     "content":[
-        ["eventTitle", ["JSON SERVER BABY"]],
+        ["eventTitle", ["Свадьба"]],
         ["emptySpace", []],
-        ["quote", ["Quote"]],
-        ["floatingImages", [
+        ["quote", ["Пусть все будет хорошо"]],
+        ["imageGallery", [
             "../../pexels-phil-desforges-15185102.jpg",
             "../../pexels-feyza-yıldırım-16407235.jpg",
             "../../pexels-polina-kovaleva-5546810.jpg",
