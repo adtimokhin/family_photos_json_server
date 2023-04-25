@@ -1,5 +1,30 @@
 {
   "content":[
-  
+   ["eventTitle", ["В прыжке!"]],
+    ["emptySpace", []],
+    ["emptySpace", []],
+    ["quote", ["Однажды начав мы никогда не закончим это делать :)"]],
+      ["imageGallery", [
+             "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4884.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4889.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4891.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4895.jpg"
+          ]],
+    ["emptySpace", []],
+    ["eventTitle", ["Прыгают все!"]],
+    ["line", []],
+    ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4896.jpg", "", "", "", false]],
+        ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4887.jpg", "", "", "", true]],
+    ["emptySpace", []],
+     ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4896.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4888.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4892.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4884.jpg"]],
+    ["emptySpace", []]
   ]
 }
+
+// 1 6 8 12
+// 13
+// 4
+// 13 5 9 11
