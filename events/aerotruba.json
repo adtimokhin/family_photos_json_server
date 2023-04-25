@@ -1,9 +1,32 @@
 {
 
   "content":[
-  
-    
-    
+     ["eventTitle", ["Труба"]],
+     ["emptySpace", []],
+      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4874.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4882.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4868.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4871.jpg"]],
+         ["line", []],
+         ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4869.jpg", "Миша летает", "", "Больно, друзья!", false]],
+         ["line", []],
+    ["emptySpace", []],
+    ["quote", ["Не клубника!"]],
+     ["line", []],
+     ["imageGallery", [
+             "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4870.jpg",
+           "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4871.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4872.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4875.jpg"
+          ]],
+     ["line", []],
+     ["imageGallery", [
+             "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4879.jpg",
+           "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4877.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4881.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4881.jpg"
+          ]],
+     ["emptySpace", []]
   ]
   
 }
