@@ -1,8 +1,8 @@
 {
   "startYear": 2003,
   "startMonth": 5,
-  "endYear": 2003,
-  "endMonth": 5,
+  "endYear": 2017,
+  "endMonth": 12,
   "events": [
     {
       "topText": "свадьба",
@@ -10,6 +10,19 @@
       "eventLink": "wedding",
       "year": 2003,
       "month": 4,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
+      "topText": "Аэротрубв",
+      "bottomText": "2017 ДЕК",
+      "eventLink": "aerotruba",
+      "year": 2017,
+      "month": 12,
       "settings": {
         "textColor": "",
         "hoverTextColor": "",
