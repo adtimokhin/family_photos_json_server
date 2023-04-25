@@ -29,6 +29,19 @@
         "bgColor": "",
         "hoverBgColor": ""
       }
+    },
+     {
+      "topText": "Прыжочки",
+      "bottomText": "2018 ОКТ",
+      "eventLink": "prizki",
+      "year": 2018,
+      "month": 10,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
     }
   ]
 }
