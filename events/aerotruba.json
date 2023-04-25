@@ -12,6 +12,7 @@
          ["line", []],
     ["emptySpace", []],
     ["quote", ["Не клубника!"]],
+     ["emptySpace", []],
      ["line", []],
      ["imageGallery", [
              "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4870.jpg",
@@ -19,7 +20,9 @@
             "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4872.jpg",
             "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4875.jpg"
           ]],
+     ["emptySpace", []],
      ["line", []],
+     ["emptySpace", []],
      ["imageGallery", [
              "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4879.jpg",
            "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4877.jpg",
@@ -27,6 +30,7 @@
             "https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4881.jpg"
           ]],
      ["emptySpace", []]
+     ["emptySpace", []],
   ]
   
 }
