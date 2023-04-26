@@ -1,37 +1,38 @@
 {
 
-  "contnent":[
-   ["eventTitle", ["Казахстан. Начало"]],
+    "contnent":[
+     ["eventTitle", ["Казахстан. Начало"]],
+       ["emptySpace", []],
+       ["quote", ["Добирались все долго"]],
      ["emptySpace", []],
-     ["quote", ["Добирались все долго"]],
-   ["emptySpace", []],
-    ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_1.jpg", "", "", "кто-то ехал", false]],
-    ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_2.jpg", "", "", "А кто-то прилетел и ждал, изучая кофейни Казахстана", true]],
-    ["emptySpace", []],
-     ["emptySpace", []],
-     ["quote", ["Развлекались как могли"]],
-    ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_3.jpg", "", "", "Кадр со съемок клипа", false]],
-        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_4.jpg", "", "", "Руки-тату", true]],
-    ["emptySpace", []],
-     ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_5.jpg", "", "", "Руки-тату", false]],
-         ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_6.jpg", "", "", "Руки-тату", true]],
-    ["emptySpace", []],
-    ["emptySpace", []],
-     ["quote", ["А потом все собрались!"]],
-    ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_9.jpg", "Факел", "для мангала", "", false]],
-        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_8.jpg", "Боба!", "", "", true]],
-     ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_7.jpg", "", "", "", false]],
-    ["line",[]]
-    ["imageGallery", []],
-            ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_10.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_11.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_12.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_13.jpg"]],
-     ["emptySpace", []],
-     ["emptySpace", []],
-      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_14.jpg", "", "", "И все довольны!", false]],
-    
-    
-  ]
-
-}
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_1.jpg", "", "", "кто-то ехал", false]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_2.jpg", "", "", "А кто-то прилетел и ждал, изучая кофейни Казахстана", true]],
+      ["emptySpace", []],
+       ["emptySpace", []],
+       ["quote", ["Развлекались как могли"]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_3.jpg", "", "", "Кадр со съемок клипа", false]],
+          ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_4.jpg", "", "", "Руки-тату", true]],
+      ["emptySpace", []],
+       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_5.jpg", "", "", "Руки-тату", false]],
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_6.jpg", "", "", "Руки-тату", true]],
+      ["emptySpace", []],
+      ["emptySpace", []],
+       ["quote", ["А потом все собрались!"]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_9.jpg", "Факел", "для мангала", "", false]],
+          ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_8.jpg", "Боба!", "", "", true]],
+       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_7.jpg", "", "", "", false]],
+      ["line",[]],
+      ["imageGallery", []],
+              ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_10.jpg",
+                "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_11.jpg",
+                "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_12.jpg",
+                "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_13.jpg"]],
+       ["emptySpace", []],
+       ["emptySpace", []],
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_14.jpg", "", "", "И все довольны!", false]]
+      
+      
+    ]
+  
+  }
+  
