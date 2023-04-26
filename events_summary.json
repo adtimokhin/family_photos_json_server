@@ -1,8 +1,8 @@
 {
   "startYear": 2003,
   "startMonth": 5,
-  "endYear": 2020,
-  "endMonth": 7,
+  "endYear": 2022,
+  "endMonth": 12,
   "events": [
     {
       "topText": "свадьба",
@@ -49,6 +49,19 @@
       "eventLink": "poezdki",
       "year": 2020,
       "month": 7,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+        {
+      "topText": "НОВЫЙ ГОД",
+      "bottomText": "2022 ДЕК",
+      "eventLink": "kzNewYear",
+      "year": 2022,
+      "month": 12,
       "settings": {
         "textColor": "",
         "hoverTextColor": "",
