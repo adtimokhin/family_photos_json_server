@@ -1,5 +1,23 @@
 {
 
-  "content":[]
+  "content":[
+  
+     ["eventTitle", ["Новый Год в Казахстане"]],
+    ["emptySpace", []],
+    ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_10.jpg", "", "", "", false]],
+    ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_9.jpg", "", "", "", true]],
+    ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_7.jpg", "", "", "", false]],
+    ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_8.jpg", "", "", "", true]],
+    
+    ["line",[]],
+    
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_2.jpg", "", "", "", true]],
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_1.jpg", "", "", "", false]],
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_3.jpg", "", "", "", false]],
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_6.jpg", "", "", "", false]],
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_5.jpg", "", "", "", true]],
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_ny_20222/IMG_4.jpg", "", "", "", false]]
+    
+  ]
   
 }
