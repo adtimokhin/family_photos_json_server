@@ -20,7 +20,7 @@
       ["line", []],
        ["emptySpace", []],
        ["eventTitle", ["Владимир"]],
-      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_18.jpg", "", "", "", true]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_18.jpg", "Фото у золотых ворот", "Владимир", "А где ворота?", true]],
       ["imageGallery", []],
             ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_10.JPG",
               "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_20.jpg",
