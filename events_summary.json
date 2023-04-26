@@ -1,8 +1,8 @@
 {
   "startYear": 2003,
   "startMonth": 5,
-  "endYear": 2017,
-  "endMonth": 12,
+  "endYear": 2020,
+  "endMonth": 7,
   "events": [
     {
       "topText": "свадьба",
@@ -36,6 +36,19 @@
       "eventLink": "prizki",
       "year": 2018,
       "month": 10,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
+      "topText": "Золотое Кольцо",
+      "bottomText": "2020 АВГ",
+      "eventLink": "poezdki",
+      "year": 2020,
+      "month": 7,
       "settings": {
         "textColor": "",
         "hoverTextColor": "",
