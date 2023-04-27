@@ -1,0 +1,38 @@
+{
+
+    "content":[
+       ["eventTitle", ["В Лесу"]],
+       ["emptySpace", []],
+        ["imageGallery", [
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_1.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_2.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_3.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_4.jpg"
+            ]],
+       ["emptySpace", []],
+       ["line", []],
+       ["emptySpace", []],
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_5.jpg", "Хороший улов!", "", "(не мухомор)", false]],
+       ["emptySpace", []],
+       ["line", []],
+       ["emptySpace", []],
+       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_6.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_7.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_8.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_9.jpg"]],
+      ["emptySpace", []],
+      ["line",[]],
+      ["emptySpace", []],
+       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_10.jpg", "", "", "Перекус!", false]]
+      ["emptySpace", []],
+      ["line",[]],
+      ["emptySpace", []],
+      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_11.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_12.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_13.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_14.jpg"]],
+      
+      
+    ]
+    
+  }
