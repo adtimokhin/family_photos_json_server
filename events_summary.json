@@ -57,6 +57,19 @@
       }
     },
     {
+      "topText": "В Лесу",
+      "bottomText": "2021 СЕН",
+      "eventLink": "vLesu",
+      "year": 2021,
+      "month": 9,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
       "topText": "КАЗАХСТАН",
       "bottomText": "2022 СЕН",
       "eventLink": "kzStart",
