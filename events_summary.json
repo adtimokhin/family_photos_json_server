@@ -44,6 +44,19 @@
       }
     },
     {
+      "topText": "Лондон",
+      "bottomText": "2019 АВГ",
+      "eventLink": "londonTrip",
+      "year": 2019,
+      "month": 8,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
       "topText": "Золотое Кольцо",
       "bottomText": "2020 АВГ",
       "eventLink": "poezdki",
