@@ -1,3 +1,6 @@
+
+ 
+
 {
     "content":[
         ["eventTitle", ["Свадьба"]],
@@ -7,10 +10,10 @@
         ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_1.png",
              "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_2.png",
               "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_3.png",
-              "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_4.png"],
+              "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_4.png"]],
         ["line", []],
-         ["imageQuote",  "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_5.png", "", "", "", true]],
-         ["imageQuote",  "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_6.png", "", "", "", false]],
+         ["imageQuote",  "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_5.png", "", "", "", true],
+         ["imageQuote",  "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_6.png", "", "", "", false],
          ["line", []],
         ["imageGallery", [
            "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_1.png",
@@ -22,4 +25,5 @@
           ]],
          ["line", []],
          ["emptySpace", []]
+        ]
 }
