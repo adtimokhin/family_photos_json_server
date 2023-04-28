@@ -69,12 +69,38 @@
         "hoverBgColor": ""
       }
     },
-    {
+    
+     {
       "topText": "КАЗАХСТАН",
       "bottomText": "2022 СЕН",
       "eventLink": "kzStart",
       "year": 2022,
       "month": 6,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    }, {
+      "topText": "КАЗАХСТАН",
+      "bottomText": "2022 СЕН",
+      "eventLink": "kzStart",
+      "year": 2022,
+      "month": 6,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
+      "topText": "животные",
+      "bottomText": "2022 СЕН",
+      "eventLink": "kzStart",
+      "year": 2021,
+      "month": 4,
       "settings": {
         "textColor": "",
         "hoverTextColor": "",
