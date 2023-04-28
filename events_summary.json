@@ -1,9 +1,23 @@
 {
-  "startYear": 2003,
-  "startMonth": 5,
+  "startYear": 2002,
+  "startMonth": 8,
   "endYear": 2022,
   "endMonth": 12,
   "events": [
+     {
+      "topText": "А кто это такие красивые?",
+      "bottomText": "2002 СЕН",
+      "eventLink": "youngParents",
+      "year": 2002,
+      "month": 8,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+
     {
       "topText": "свадьба",
       "bottomText": "2003 АПР",
