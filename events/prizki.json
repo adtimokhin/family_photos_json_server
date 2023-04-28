@@ -14,6 +14,7 @@
     ["eventTitle", ["Прыгают все!"]],
     ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4896.jpg", "", "", "", false]],
         ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4887.jpg", "", "", "", true]],
+    ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_92.png", "", "", "", false]]
     ["emptySpace", []],
      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4896.jpg",
             "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4888.jpg",
