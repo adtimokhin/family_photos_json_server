@@ -1,25 +1,26 @@
 {
-  "content":[
-   ["eventTitle", ["В прыжке!"]],
-    ["emptySpace", []],
-    ["emptySpace", []],
-    ["quote", ["Однажды начав мы никогда не закончим это делать :)"]],
-      ["imageGallery", [
-             "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4884.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4889.jpg",
-            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4891.jpg",
-            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4895.jpg"
-          ]],
-    ["emptySpace", []],
-    ["eventTitle", ["Прыгают все!"]],
-    ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4896.jpg", "", "", "", false]],
-        ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4887.jpg", "", "", "", true]],
-    ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_92.png", "", "", "", false]]
-    ["emptySpace", []],
-     ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4896.jpg",
-            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4888.jpg",
-            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4892.jpg",
-            "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4884.jpg"]],
-    ["emptySpace", []]
-  ]
-}
+    "content":[
+     ["eventTitle", ["В прыжке!"]],
+      ["emptySpace", []],
+      ["emptySpace", []],
+      ["quote", ["Однажды начав мы никогда не закончим это делать :)"]],
+        ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4884.jpg",
+                "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4889.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4891.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4895.jpg"
+            ]],
+      ["emptySpace", []],
+      ["eventTitle", ["Прыгают все!"]],
+      ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4896.jpg", "", "", "", false]],
+          ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4887.jpg", "", "", "", true]],
+      ["imageQuote", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_92.png", "", "", "", false]],
+      ["emptySpace", []],
+       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4896.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4888.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4892.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/prizki/IMG_4884.jpg"]],
+      ["emptySpace", []]
+    ]
+  }
+  
