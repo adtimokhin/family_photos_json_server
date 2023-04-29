@@ -98,6 +98,19 @@
       }
     },
     {
+      "topText": "Хэллоуин",
+      "bottomText": "2020 ОКТ",
+      "eventLink": "halloween",
+      "year": 2020,
+      "month": 10,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
       "topText": "В Лесу",
       "bottomText": "2021 СЕН",
       "eventLink": "vLesu",
