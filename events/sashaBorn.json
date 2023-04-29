@@ -4,19 +4,20 @@
        ["eventTitle", ["саша"]],
        ["emptySpace", []],
         ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG",
-             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG"]],
+             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_22.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_18.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_20.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_24.JPG"]],
            ["line", []],
-           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/aerotruba/IMG_4869.jpg", "t", "", "ки!", false]],
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_3.JPG", "t", "", "ки!", false]],
           
        ["emptySpace", []],
        ["line", []],
        ["imageGallery", [
-               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG"
+               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_5.JPG",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_9.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_6.JPG",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_17.JPG"
             ]],
      
        ["line", []],
