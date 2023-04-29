@@ -4,9 +4,9 @@
        ["eventTitle", ["Миша"]],
        ["emptySpace", []],
         ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_15.png",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2.png",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2.JPG",
               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_22.png",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_3.png",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_3.jpg",
                            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_17.png"]],
            ["line", []],
            ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12.png", "", "", "ки!", false]],
@@ -16,8 +16,8 @@
        ["imageGallery", [
                "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_13.png",
             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_16.png",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_4.png",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_1.png"
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_4.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_1.JPG"
             ]],
      
        ["line", []],
