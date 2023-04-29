@@ -1,0 +1,43 @@
+{
+
+    "content":[
+     ["eventTitle", ["Воронеж"]],
+       ["emptySpace", []],
+       ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh1.jpg",
+             "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh2.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh3.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh4.jpgG"
+            ]],
+       ["emptySpace", []],
+       ["quote", ["Папа Фотограф"]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh5.jpg", "", "", "", false]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh6.jpg", "", "", "", true]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh7.jpg", "", "", "", false]],
+         ["emptySpace", []],
+       ["line",[]],
+      ["emptySpace", []],
+      ["quote", ["Папа Модель"]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh8.jpg", "", "", "", true]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh9.jpg", "", "", "", false]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh10.jpg", "", "", "", true]],
+         ["emptySpace", []],
+       ["line",[]],
+      ["emptySpace", []],
+      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh11.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh12.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh13.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh14.jpg",
+               "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh15.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/voronezhTrip/voronezh16.jpg"]],
+      ["emptySpace", []],
+        ["emptySpace", []]
+       ]
+    
+  }
+  
+      
