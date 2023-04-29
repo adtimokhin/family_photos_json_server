@@ -17,7 +17,6 @@
         "hoverBgColor": ""
       }
     },
-
     {
       "topText": "свадьба",
       "bottomText": "2003 АПР",
@@ -31,10 +30,23 @@
         "hoverBgColor": ""
       }
     },
-    
+   {
+      "topText": "молодой саша",
+      "bottomText": "2003 СЕН",
+      "eventLink": "sashaBorn.json",
+      "year": 2003,
+      "month": 8,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    } ,
+       
     {
       "topText": "молодой миша",
-      "bottomText": "2009 АПР",
+      "bottomText": "2009 МАР",
       "eventLink": "mishaBorn.json",
       "year": 2009,
       "month": 4,
@@ -46,19 +58,6 @@
       }
     },
     
-     {
-      "topText": "молодой саша",
-      "bottomText": "2003 СИН",
-      "eventLink": "sashaBorn.json",
-      "year": 2003,
-      "month": 8,
-      "settings": {
-        "textColor": "",
-        "hoverTextColor": "",
-        "bgColor": "",
-        "hoverBgColor": ""
-      }
-    } ,
     {
       "topText": "Аэротруба",
       "bottomText": "2017 ДЕК",
