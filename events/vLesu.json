@@ -33,7 +33,8 @@
       ["emptySpace", []],
       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween12.jpg",
               "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween13.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween14.jpg",]]
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween14.jpg"]]
+    
     ]
     
   }
