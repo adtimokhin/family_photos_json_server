@@ -35,7 +35,7 @@
     {
       "topText": "молодой миша",
       "bottomText": "2009 АПР",
-      "eventLink": "mishaBorn",
+      "eventLink": "mishaBorn.json",
       "year": 2009,
       "month": 4,
       "settings": {
