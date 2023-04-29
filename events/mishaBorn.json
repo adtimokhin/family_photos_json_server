@@ -1,33 +1,17 @@
 
 {
-
     "content":[
-       ["eventTitle", ["l"]],
-       ["emptySpace", []],
-         ["imageGallery", [
-               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_1",
-             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_13",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_16",
-              
-           "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_4"
-            ]],
-           ["line", []],
-           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12", "миша думает о профессии", "", "трактором!", false]],
-           ["line", []],
+     ["eventTitle", ["Поездки по России"]],
+     ["emptySpace", []],
+       ["eventTitle", ["i"]],
       ["emptySpace", []],
+           
       
-       ["emptySpace", []],
-       ["line", []],
-       ["floatingImages", [  "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_15",
-             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_17",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_22",
-           "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_3"]],
-       ["emptySpace", []],
-       ["line", []],
-       ["emptySpace", []]
-      
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_8.png", "", "", "", true]],
+       
+       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_33.jpeg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_17.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_32.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_8.png"]]
     ]
-    
   }
-  
