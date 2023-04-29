@@ -27,7 +27,7 @@
       ["emptySpace", []],
        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween10.jpg", "", "", "Перекус!", false]],
       ["emptySpace", []],
-      "imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween11.jpg", "", "", "Три Богатыря", true]],
+      "imageQuote", [["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween11.jpg", "", "", "Три Богатыря", true]],
       ["emptySpace", []],
       ["line",[]],
       ["emptySpace", []],
