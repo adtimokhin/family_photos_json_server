@@ -11,7 +11,6 @@
          ["emptySpace", []],
       ["line",[]],
        ["emptySpace", []],
-      ["emptySpace", []],
       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/jacob/jacob4.jpg",
               "https://adtimokhin.github.io/family_photos_json_server/images/jacob/jacob5.jpg",
               "https://adtimokhin.github.io/family_photos_json_server/images/jacob/jacob6.jpg",
