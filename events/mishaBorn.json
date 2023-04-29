@@ -1,44 +1,30 @@
 {
+
     "content":[
-     ["eventTitle", ["Поездки по России"]],
-     ["emptySpace", []],
-       ["eventTitle", ["Суздаль"]],
-      ["emptySpace", []],
-            ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_3.JPG",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_24.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_26.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_29.jpg"]],
+       ["eventTitle", ["саша"]],
        ["emptySpace", []],
-      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_27.jpg", "", "", "", false]],
-      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_12.JPG", "", "", "", true]],
+        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_15",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_22",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_3",
+                           "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_17"]],
+           ["line", []],
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12",, "т", "", "ки!", false]],
+          
+       ["emptySpace", []],
        ["line", []],
-       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_30.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_32.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_28.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_29.jpg"]],
+       ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_13",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_16",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_4",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_1"
+            ]],
+     
+       ["line", []],
       
-      ["line", []],
        ["emptySpace", []],
-       ["eventTitle", ["Владимир"]],
-      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_18.jpg", "Фото у золотых ворот", "Владимир", "А где ворота?", true]],
-      ["imageGallery", []],
-            ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_10.png",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_20.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_22.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_33.jpeg"]],
-      ["line", []],
-      ["imageGallery", []],
-            ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_10.png",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_20.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_22.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_33.jpeg"]],
-      ["emptySpace", []],
-       ["eventTitle", ["Калуга"]],
-      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_8.png", "", "", "", true]],
-        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_17.JPG", "", "", "", false]],
-       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_33.jpeg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_17.JPG",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_32.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/poezdki/IMG_8.png"]]
+       ["emptySpace", []]
     ]
+    
   }
+  
