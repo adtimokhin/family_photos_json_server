@@ -31,9 +31,9 @@
       }
     },
    {
-      "topText": "молодой саша",
+      "topText": "Молодой Саша",
       "bottomText": "2003 СЕН",
-      "eventLink": "sashaBorn.json",
+      "eventLink": "sashaBorn",
       "year": 2003,
       "month": 8,
       "settings": {
@@ -45,9 +45,9 @@
     } ,
        
     {
-      "topText": "молодой миша",
+      "topText": "Молодой Миша",
       "bottomText": "2009 МАР",
-      "eventLink": "mishaBorn.json",
+      "eventLink": "mishaBorn",
       "year": 2009,
       "month": 4,
       "settings": {
@@ -57,7 +57,19 @@
         "hoverBgColor": ""
       }
     },
-    
+    {
+      "topText": "Тайланд",
+      "bottomText": "2016 МАЙ",
+      "eventLink": "thailandMove",
+      "year": 2016,
+      "month": 5,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    } ,
     {
       "topText": "Аэротруба",
       "bottomText": "2017 ДЕК",
