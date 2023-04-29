@@ -17,9 +17,6 @@
               "https://adtimokhin.github.io/family_photos_json_server/images/londonTrip/IMG8.jpg",
               "https://adtimokhin.github.io/family_photos_json_server/images/londonTrip/IMG9.jpg"]],
         ["line", []], ["emptySpace", []],
-       ["emptySpace", []],
-       ["line", []],
-       ["emptySpace", []],
        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/londonTrip/IMG10.jpg", "", "", "Без комментариев", false]],
        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/londonTrip/IMG11.jpg", "", "", "", true]],
       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/londonTrip/IMG12.jpg",
@@ -27,8 +24,6 @@
               "https://adtimokhin.github.io/family_photos_json_server/images/londonTrip/IMG14.jpg",
               "https://adtimokhin.github.io/family_photos_json_server/images/londonTrip/IMG15.jpg"]],
         ["line", []], ["emptySpace", []],
-          ["emptySpace", []],
-       ["emptySpace", []]
     ]
     
   }
