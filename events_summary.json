@@ -124,11 +124,24 @@
       }
     },
     {
+      "topText": "Рамонь",
+      "bottomText": "2022 ИЮН",
+      "eventLink": "ramonTrip",
+      "year": 2022,
+      "month": 6,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
       "topText": "КАЗАХСТАН",
       "bottomText": "2022 СЕН",
       "eventLink": "kzStart",
       "year": 2022,
-      "month": 6,
+      "month": 9,
       "settings": {
         "textColor": "",
         "hoverTextColor": "",
