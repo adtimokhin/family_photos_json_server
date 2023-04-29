@@ -1,0 +1,32 @@
+{
+
+    "content":[
+     ["eventTitle", ["Хэллоуин"]],
+       ["emptySpace", []],
+      ["quote", ["Семейка Аддамс"]],
+      ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween2.jpg", "", "", "Гомес", false]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween3.jpg", "", "", "Мортиша", true]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween4.jpg", "", "", "Уэнздей", false]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween5.jpg", "", "", "Пагсли", true]],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween1.jpg", "", "", "", false]],
+       ["emptySpace", []],
+      ["line",[]],
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween6.jpg", "", "", "И компания", true]],
+     ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween9.jpg", "", "", "", true]],
+      ["emptySpace", []],
+      ["line",[]],
+       ["emptySpace", []],
+      ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween7.jpg",
+             "https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween8.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween10.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/halloween/halloween11.jpg"
+            ]],
+       ["emptySpace", []],
+       ["emptySpace", []]
+    ]
+    
+  }
+  
