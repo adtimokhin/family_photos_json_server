@@ -1,0 +1,38 @@
+{
+
+    "content":[
+     ["eventTitle", [""]],
+       ["emptySpace", []],
+       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon1.jpg", "", "", "Стильные новые шляпы", false]],
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon2.jpg", "", "", "", true]],
+       ["line",[]],
+       ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon3.jpg",
+             "https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon4.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon5.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon6.jpg"
+            ]],
+      ["emptySpace", []],
+       ["line",[]],
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon7.jpg", "", "", "Три Богатыря часть 2", false]],
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon8.jpg", "", "", "Чебуреки", true]],
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon9.jpg", "", "", "Ночной вид", false]],
+       ["emptySpace", []],
+      ["line",[]],
+       ["emptySpace", []],
+       ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon10.jpg",
+             "https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon11.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon12.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ramonTrip/ramon13.jpg"
+            ]],
+       ["emptySpace", []],
+       ["emptySpace", []]
+    ]
+    
+  }
+  
