@@ -31,6 +31,20 @@
         "hoverBgColor": ""
       }
     },
+    
+    {
+      "topText": "молодой миша",
+      "bottomText": "2009 АПР",
+      "eventLink": "mishaBorn",
+      "year": 2009,
+      "month": 4,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
     {
       "topText": "Аэротруба",
       "bottomText": "2017 ДЕК",
