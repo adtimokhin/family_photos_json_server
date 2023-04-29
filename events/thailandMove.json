@@ -1,0 +1,46 @@
+{
+
+    "content":[
+     ["eventTitle", ["Переезд В Тайланд"]],
+       ["emptySpace", []],
+       ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai1.jpg",
+             "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai2.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai3.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai4.jpg"
+            ]],
+       ["emptySpace", []],
+       ["line",[]],
+       ["emptySpace", []],
+       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai5.jpg", "", "", "Печенегов не видать!", true]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai6.jpg", "", "", "Дневник Глазапетуха", false]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai7.jpg", "", "", "Потоп!", true]],
+         ["emptySpace", []],
+      ["line",[]],
+       ["emptySpace", []],
+      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai8.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai9.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai10.jpg"]],
+      ["emptySpace", []],
+      ["line",[]],
+       ["emptySpace", []],
+       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai11.jpg", "", "", "", false]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai12.jpg", "", "", "", true]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai13.jpg", "", "", "", false]],
+         ["emptySpace", []],
+      ["line",[]],
+       ["emptySpace", []],
+      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai14.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai15.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/thailand/thai16.jpg"]],
+      ["emptySpace", []],
+      ["emptySpace", []]
+       ]
+    
+  }
+  
+      
