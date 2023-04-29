@@ -4,33 +4,36 @@
        ["eventTitle", ["В Лесу"]],
        ["emptySpace", []],
         ["imageGallery", [
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_1.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_2.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_3.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_4.jpg"
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween1.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween2.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween3.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween4.jpg"
             ]],
        ["emptySpace", []],
        ["line", []],
        ["emptySpace", []],
-        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_5.jpg", "(не мухомор)", "", "Хороший улов!", false]],
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween5.jpg", "(не мухомор)", "", "Хороший улов!", true]],
        ["emptySpace", []], 
        ["line", []],
        ["emptySpace", []],
-       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_6.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_7.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_8.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_9.jpg"]],
+       ["imageGallery", [
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween6.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween7.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween8.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween9.jpg"
+            ]],
       ["emptySpace", []],
       ["line",[]],
       ["emptySpace", []],
-       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_10.jpg", "", "", "Перекус!", false]],
+       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween10.jpg", "", "", "Перекус!", false]],
+      ["emptySpace", []],
+      "imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween11.jpg", "", "", "Три Богатыря", true]],
       ["emptySpace", []],
       ["line",[]],
       ["emptySpace", []],
-      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_11.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_12.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_13.jpg",
-              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/IMG_14.jpg"]]
+      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween12.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween13.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/vLesu/halloween14.jpg",]]
     ]
     
   }
