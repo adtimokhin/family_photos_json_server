@@ -47,7 +47,7 @@
          ["emptySpace", []],
       ["line",[]],
       ["emptySpace", []],
-      "floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps20.JPG",
+      ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps20.JPG",
               "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps21.JPG",
               "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps22.JPG",
               "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps23.JPG",
