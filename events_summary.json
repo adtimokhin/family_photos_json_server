@@ -201,6 +201,19 @@
       }
     },
     {
+      "topText": "Воронеж",
+      "bottomText": "2022 ИЮЛ",
+      "eventLink": "voronezhTrip",
+      "year": 2022,
+      "month": 7,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
       "topText": "КАЗАХСТАН",
       "bottomText": "2022 СЕН",
       "eventLink": "kzStart",
