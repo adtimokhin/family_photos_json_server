@@ -1,0 +1,62 @@
+{
+
+    "content":[
+     ["eventTitle", ["Лайлапс"]],
+       ["emptySpace", []],
+      ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps1.JPG",
+             "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps2.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps3.JPGg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps4.JPG"
+            ]],
+       ["emptySpace", []],
+       ["line",[]],
+      ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps5.JPG", "", "", "", false]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps6.JPG", "", "", "", true]],
+         ["emptySpace", []],
+      ["line",[]],
+      ["emptySpace", []],
+      ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps7.JPG",
+             "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps8.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps9.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps10.JPG"
+            ]],
+       ["emptySpace", []],
+       ["line",[]],
+      ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps11.JPG", "", "", "", false]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps12.JPG", "", "", "", true]],
+         ["emptySpace", []],
+      ["line",[]],
+      ["emptySpace", []],
+       ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps13.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps14.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps15.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps16.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps17.JPG"]],
+      ["emptySpace", []],
+      ["line",[]],
+      ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps18.JPG", "", "", "", true]],
+         ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps19.JPG", "", "", "", false]],
+         ["emptySpace", []],
+      ["line",[]],
+      ["emptySpace", []],
+      "floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps20.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps21.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps22.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps23.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps24.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps25.JPG"]],
+      ["emptySpace", []],
+    ["emptySpace", []]
+       ]
+    
+  }
+  
+      
