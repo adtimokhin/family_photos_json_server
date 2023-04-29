@@ -3,21 +3,21 @@
     "content":[
        ["eventTitle", ["Миша"]],
        ["emptySpace", []],
-        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_15",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_22",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_3",
-                           "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_17"]],
+        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_15.png",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2.png",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_22.png",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_3.png",
+                           "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_17.png"]],
            ["line", []],
-           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12", "", "", "ки!", false]],
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12.png", "", "", "ки!", false]],
           
        ["emptySpace", []],
        ["line", []],
        ["imageGallery", [
-               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_13",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_16",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_4",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_1"
+               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_13.png",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_16.png",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_4.png",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_1.png"
             ]],
      
        ["line", []],
