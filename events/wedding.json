@@ -5,13 +5,13 @@
     "content":[
         ["eventTitle", ["Свадьба"]],
         ["emptySpace", []],
-     ["video" , ["UnnDcX-OhDc"]],
-        ["emptySpace", []],
+ 
+  
         ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_1.png",
              "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_2.png",
               "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_3.png",
               "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_4.png"]],
-        ["line", []],
+ ["emptySpace", []],
         ["imageGallery", [
            "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_1.png",
              "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_2.png",
@@ -20,7 +20,8 @@
              "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_5.png",
              "https://adtimokhin.github.io/family_photos_json_server/images/wedding/IMG_6.png"
           ]],
-         ["line", []],
+      ["emptySpace", []],
+         ["video" , ["UnnDcX-OhDc"]],
          ["emptySpace", []]
         ]
 }
