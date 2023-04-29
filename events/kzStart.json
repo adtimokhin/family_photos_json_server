@@ -33,9 +33,8 @@
                 "https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_13.jpg"]],
        ["emptySpace", []],
        ["emptySpace", []],
-        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_14.jpg", "", "", "И все довольны!", false]]
-      
-      
+        ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/kz_start/IMG_14.jpg", "", "", "И все довольны!", false]],
+        ["emptySpace", []]
     ]
   
   }
