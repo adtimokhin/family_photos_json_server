@@ -6,7 +6,7 @@
       ["imageGallery", [
                "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps1.JPG",
              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps2.JPG",
-              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps3.JPGg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps3.JPG",
               "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps4.JPG"
             ]],
        ["emptySpace", []],
@@ -54,7 +54,8 @@
               "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps24.JPG",
               "https://adtimokhin.github.io/family_photos_json_server/images/lailaps/lailaps25.JPG"]],
       ["emptySpace", []],
-    ["emptySpace", []]
+        ["video", ["juMojW-CQMM"]],
+        ["emptySpace", []]
        ]
     
   }
