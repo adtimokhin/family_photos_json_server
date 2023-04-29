@@ -1,7 +1,7 @@
 {
 
     "content":[
-       ["eventTitle", ["саша"]],
+       ["eventTitle", ["Миша"]],
        ["emptySpace", []],
         ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_15",
             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2",
@@ -9,7 +9,7 @@
               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_3",
                            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_17"]],
            ["line", []],
-           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12",, "т", "", "ки!", false]],
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12", "", "", "ки!", false]],
           
        ["emptySpace", []],
        ["line", []],
