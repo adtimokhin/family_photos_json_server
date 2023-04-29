@@ -58,6 +58,19 @@
       }
     },
     {
+      "topText": "Лайлапс",
+      "bottomText": "2014 НОЯ",
+      "eventLink": "lailaps",
+      "year": 2003,
+      "month": 4,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    },
+    {
       "topText": "Тайланд",
       "bottomText": "2016 МАЙ",
       "eventLink": "thailandMove",
