@@ -45,6 +45,20 @@
         "hoverBgColor": ""
       }
     },
+    
+     {
+      "topText": "молодой саша",
+      "bottomText": "2003 СИН",
+      "eventLink": "sashaBorn.json",
+      "year": 2003,
+      "month": 8,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    } ,
     {
       "topText": "Аэротруба",
       "bottomText": "2017 ДЕК",
