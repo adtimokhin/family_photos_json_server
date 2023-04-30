@@ -43,7 +43,9 @@
         "hoverBgColor": ""
       }
     } ,
-        {
+      
+    
+    {
       "topText": "Молодая уля",
       "bottomText": "2007 ФЕВ",
       "eventLink": "uliBorn",
@@ -55,7 +57,7 @@
         "bgColor": "",
         "hoverBgColor": ""
       }
-    } ,
+    },
     {
       "topText": "Молодой Миша",
       "bottomText": "2009 МАР",
