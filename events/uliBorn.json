@@ -1,27 +1,40 @@
 {
 
     "content":[
-       ["eventTitle", ["уля"]],
+       ["eventTitle", ["Уля"]],
        ["emptySpace", []],
-        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_27",
-             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_17",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_18.JPG",
-             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_19",
-             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_275"]],
+        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u1.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u2.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u3.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u4.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u5.jpg"]],
            ["line", []],
-           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_13", "t", "", "это я сделала !", false]],
-          
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u6.jpg", "", "", "Первый раз в первый класс", false]],
+       ["emptySpace", []],
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u7.jpg", "", "", "Побег!", true]],
        ["emptySpace", []],
        ["line", []],
+       ["emptySpace", []],
        ["imageGallery", [
-               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_31",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_16",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_2"
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_23"
-            ]],
-     
+             "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u8.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u9.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u10.jpg",
+            "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u11.jpg"
+            ]], 
+        ["emptySpace", []],
        ["line", []],
-      
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u12.jpg", "", "", "", false]],
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u13.jpg", "", "", "", true]],
+         ["emptySpace", []],
+       ["line", []],
+      ["emptySpace", []],
+        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u14.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u15.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u16.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u17.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/ulianaBorn/u18.jpg"]], 
        ["emptySpace", []],
        ["emptySpace", []]
     ]
