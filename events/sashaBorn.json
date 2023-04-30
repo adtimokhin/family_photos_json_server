@@ -1,27 +1,40 @@
 {
 
     "content":[
-       ["eventTitle", ["саша"]],
+       ["eventTitle", ["Cаша"]],
        ["emptySpace", []],
         ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_1.JPG",
-             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_22.png",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_22.png",
               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_18.png",
               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_20.png",
               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_24.png"]],
            ["line", []],
-           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_3.jpg", "", "", "ки!", false]],
-          
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/s1.jpg", "", "", "ки!", false]],
+       ["emptySpace", []],
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/s2.jpg", "", "", "Вороне где-то бог!", true]],
        ["emptySpace", []],
        ["line", []],
+       ["emptySpace", []],
        ["imageGallery", [
                "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_5.JPG",
             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_9.jpg",
               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_6.JPG",
             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_17.png"
-            ]],
-     
+            ]], 
+        ["emptySpace", []],
        ["line", []],
-      
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/s3.jpg", "", "", "", false]],
+       ["emptySpace", []],
+      ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/s4.jpg", "", "", "", true]],
+         ["emptySpace", []],
+       ["line", []],
+      ["emptySpace", []],
+        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/s5.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/s6.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/s7.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/s8.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/s9.jpg"]], 
        ["emptySpace", []],
        ["emptySpace", []]
     ]
