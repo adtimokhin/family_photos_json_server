@@ -1,0 +1,30 @@
+{
+
+    "content":[
+       ["eventTitle", ["уля"]],
+       ["emptySpace", []],
+        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_27",
+             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_17",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/S_18.JPG",
+             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_19",
+             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_275"]],
+           ["line", []],
+           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_13", "t", "", "это я сделала !", false]],
+          
+       ["emptySpace", []],
+       ["line", []],
+       ["imageGallery", [
+               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_31",
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_16",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_2"
+            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/U_23"
+            ]],
+     
+       ["line", []],
+      
+       ["emptySpace", []],
+       ["emptySpace", []]
+    ]
+    
+  }
+  
