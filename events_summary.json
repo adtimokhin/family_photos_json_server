@@ -44,12 +44,13 @@
       }
     } ,
       
+   
     {
       "topText": "Молодая уля",
       "bottomText": "2007 ФЕВ",
       "eventLink": "uliBorn",
-      "year": 2003,
-      "month": 8,
+      "year": 2007,
+      "month": 2,
       "settings": {
         "textColor": "",
         "hoverTextColor": "",
