@@ -43,7 +43,19 @@
         "hoverBgColor": ""
       }
     } ,
-       
+        {
+      "topText": "Молодая уля",
+      "bottomText": "2007 ФЕВ",
+      "eventLink": "гдшaBorn",
+      "year": 2007,
+      "month": 2,
+      "settings": {
+        "textColor": "",
+        "hoverTextColor": "",
+        "bgColor": "",
+        "hoverBgColor": ""
+      }
+    } ,
     {
       "topText": "Молодой Миша",
       "bottomText": "2009 МАР",
