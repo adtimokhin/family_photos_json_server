@@ -4,24 +4,36 @@
        ["eventTitle", ["Миша"]],
        ["emptySpace", []],
         ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_15.png",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2.JPG",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_2.JPG",
               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_22.png",
               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_3.jpg",
-                           "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_17.png"]],
-           ["line", []],
-           ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12.png", "", "", "ки!", false]],
-          
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_17.png"]],
+       ["line", []],
+       ["imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_12.png", "Миша думает о профессии", "", "Трактор", false]],
        ["emptySpace", []],
        ["line", []],
        ["imageGallery", [
-               "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_13.png",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_16.png",
-              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_4.jpg",
-            "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_1.JPG"
+             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_13.png",
+             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_16.png",
+             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_4.jpg",
+             "https://adtimokhin.github.io/family_photos_json_server/images/young_children/M_1.JPG"
             ]],
-     
+       ["emptySpace", []],
        ["line", []],
-      
+       ["emptySpace", []],
+      "imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/m1.jpg", "", "", "", true]],
+       ["emptySpace", []],
+     "imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/m2.jpg", "", "", "", false]],
+       ["emptySpace", []],
+     "imageQuote", ["https://adtimokhin.github.io/family_photos_json_server/images/young_children/m3.jpg", "", "", "", true]],
+       ["emptySpace", []],
+       ["line", []],
+      ["emptySpace", []],
+        ["floatingImages", [ "https://adtimokhin.github.io/family_photos_json_server/images/young_children/m4.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/m5.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/m6.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/m7.jpg",
+              "https://adtimokhin.github.io/family_photos_json_server/images/young_children/m8.jpg"]], 
        ["emptySpace", []],
        ["emptySpace", []]
     ]
